@@ -1,12 +1,10 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammate's contact info, if appropriate)
+Christina Ho, cgh003@ucsd.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+*Friends* is an iconic show from the 90s that ran for over 10 years. Ever since it ended, the show has had a huge influence on pop culture and many fans of the show have called for a reboot or a reunion of the cast. For this project, we are going to use ML to attempt to create a scene with the same lovable elements of the show. We will use an RNN model to train on all the scripts of *Friends* from the internet. Then the training parameters will be changed to generate a script that makes sense.
 
 ## Model/Data
 
