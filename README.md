@@ -10,7 +10,7 @@ Christina Ho, cgh003@ucsd.edu
 
 Briefly describe the files that are included with your repository:
 - trained models
-- training data (or link to training data). what is your corpus?
+- training data (or link to training data). https://fangj.github.io/friends/
 
 ## Code
 
