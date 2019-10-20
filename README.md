@@ -19,7 +19,7 @@ Your code for generating your project:
 
 ## Results
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
+- https://github.com/ucsd-ml-arts/generative-text-christina/blob/master/scenes.txt
 
 ## Technical Notes
 
