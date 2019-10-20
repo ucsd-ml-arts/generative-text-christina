@@ -30,3 +30,4 @@ Any implementation details or notes we need to repeat your work.
 
 References to any papers, techniques, repositories you used:
 - https://minimaxir.com/2019/09/howto-gpt2/
+- https://github.com/minimaxir/gpt-2-simple
